@@ -15,6 +15,7 @@
 	<div>
 		<h1>MP1 - Gruppe 4</h1>
 		<h3>LinkedGeoData & Schema.org</h3>
+		Test Commit
 		<a href="index.jsp">Homepage</a>
 	</div>
 	<br />
